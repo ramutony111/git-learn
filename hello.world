@@ -8,7 +8,7 @@ hello
 
 
 
-       system out.printin(hello)
+       system out.printin("hello")
 
 
 }
